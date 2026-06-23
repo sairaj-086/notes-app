@@ -1,0 +1,63 @@
+body {
+    font-family: Arial;
+    background-color: #f4f4f4;
+    padding: 20px;
+}
+.container {
+    max-width: 600px;
+    margin: auto;
+}
+#addNote {
+    padding: 10px 15px;
+    background: #667eea;
+    color: white;
+    border: none;
+    margin-bottom: 10px;
+    cursor: pointer;
+} 
+#addNote:hover {
+    background: #5a67d8;
+}
+
+.note {
+  background: white;
+  padding: 15px;
+  margin-top: 15px;
+  border-radius: 10px;
+  box-shadow: 0 5px 15px rgba(0,0,0,0.1);
+}
+
+.note:hover {
+    transform: scale(1.02);
+    transition: 0.2s;
+}
+
+textarea {
+  width: 100%;
+  border: none;
+  outline: none;
+  resize: none;
+}
+
+.note-controls {
+  margin-top: 10px;
+  display: flex;
+  gap: 10px;
+}
+
+.note textarea {
+  height: 80px;
+}
+.note button {
+  margin-right: 5px;
+  padding: 5px 10px;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+}
+.pinned {
+    border: 2px solid gold;
+}
+
+
+
