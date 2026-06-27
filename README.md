@@ -27,8 +27,6 @@ A clean and responsive **Notes App** built using **HTML, CSS, and JavaScript**. 
 * ⚡ Fast and user-friendly interface
 * 📱 Fully responsive design
 
-> *(If you implemented Local Storage, add this feature)*
-
 * 💾 Automatically saves notes using Local Storage
 
 ---
@@ -80,7 +78,7 @@ https://github.com/sairaj-086/notes-app
 
 2. Open the project folder.
 
-3. Open **index.html** in your browser.
+3. Open **index.html** in browser.
 
 ---
 
@@ -99,8 +97,6 @@ https://github.com/sairaj-086/notes-app
 ✔ Multiple Notes Support
 
 ✔ Responsive UI
-
-> *(If applicable)*
 
 ✔ Local Storage
 
