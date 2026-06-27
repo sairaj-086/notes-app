@@ -14,8 +14,6 @@ A clean and responsive **Notes App** built using **HTML, CSS, and JavaScript**. 
 
 ![Notes App Preview](screenshot.png)
 
-> Upload your project screenshot as **`screenshot.png`** in the repository.
-
 ---
 
 ## ✨ Features
